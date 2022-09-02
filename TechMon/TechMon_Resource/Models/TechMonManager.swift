@@ -22,7 +22,7 @@ class TechMonManager {
         
         // キャラクターの設定
         player = Character(name: "勇者", imageName: "yusya.png", attackPoint: 30, maxHP: 100, maxTP: 100, maxMP: 20)
-        enemy = Character(name: "ドラゴン", imageName: "monster.png", attackPoint: 20, maxHP: 400, maxTP: 0, maxMP: 35)
+        enemy = Character(name: "ドラゴン", imageName: "monster.png", attackPoint: 20, maxHP: 200, maxTP: 0, maxMP: 35)
     }
     
     // キャラクターたちのステータスをリセットする
